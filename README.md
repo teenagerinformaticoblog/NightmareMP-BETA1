@@ -1,2 +1,6 @@
-# NightmareMP-BETA1
-S
+# Nightmare MULTIPLAYER (BETA 1)
+Scaricate la versione multiplayer di Nightmare (Quest4Doom)
+in versione BETA.
+
+
+Versione corrente:   BETA 1

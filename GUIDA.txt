@@ -23,7 +23,7 @@ Se non si avvia il server, ricontrollare che il server abbia come file di gioco 
 Creare una sessione di gioco online
 
 Premere su 'File' in alto e selezionare 'Create game',
-per configurare la sessione di gioco, vi lascio un' immagine nel repository.
+per configurare la sessione di gioco, vi lascio fare a voi.
 
 Selezionare 'Start server',
 attendere che il server si apra,

@@ -1,2 +1,0 @@
-#informazioni avanzate
-Motore 

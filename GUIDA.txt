@@ -1,0 +1,12 @@
+Come configurare Doomseeker per giocare a NIGHTMARE
+
+Questa opzione è richiesta solo se è la prima volta che giocate
+ad un gioco online con Doomseeker.
+
+Scaricate i file di Nightmare MULTIPLAYER,
+installateli ed entrate nella cartella di gioco,
+avviate il file "Doomseeker.exe",
+nella finestra di configurazione selezionate la voce "Zandronum",
+nella sezione "Path to game executable" selezionate il file "NIGHTMARE_MP.exe",
+premete su 'Apply' e 'OK'.
+

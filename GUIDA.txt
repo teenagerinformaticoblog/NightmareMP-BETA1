@@ -9,4 +9,12 @@ avviate il file "Doomseeker.exe",
 nella finestra di configurazione selezionate la voce "Zandronum",
 nella sezione "Path to game executable" selezionate il file "NIGHTMARE_MP.exe",
 premete su 'Apply' e 'OK'.
+...
 
+Come accedere ad un server di gioco attivo (solo NIGHTMARE)
+
+Scegliere un server nella lista principale,
+controllare la sezione "IWAD" di quel server ed accertarsi che ci sia scritto "NIGHTMARE.wad",
+se queste due opzioni sono valide, allora vi basterà fare doppio click sul server scelto.
+
+Se non si avvia il server, ricontrollare che il server abbia come file di gioco (IWAD) il file "NIGHTMARE.wad".

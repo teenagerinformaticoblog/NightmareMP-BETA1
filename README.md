@@ -4,3 +4,6 @@ in versione BETA.
 
 
 Versione corrente:   BETA 1
+
+
+Mappe disponibili:   9
